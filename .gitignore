@@ -1,0 +1,6 @@
+xml/*/*.php
+xml/*/*.inc
+xml/*/*.html
+xml/*/*.txt
+xml/*/*.rdf
+xml/*/*.tmp
