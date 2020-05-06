@@ -1,3 +1,7 @@
+2020-05-06
+OBSOLETE REPOSITORY. USE "website" REPOSITORY INSTEAD.
+-----
+
 In addition to the php files for the web site, this directory stores
 information about the version number of the latest (complete) Fink 
 distribution, which is consulted by users' copies of Fink when using the 
